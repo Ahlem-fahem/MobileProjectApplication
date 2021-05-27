@@ -24,7 +24,7 @@ it is a mobile application that allows users to view the weather status in every
 
 # Package Structure
 
-    com.example.technicaltest    # Root Package
+    com.example.mobileprojectapplication    # Root Package
     .
     ├── data                # For data handling.
     │   ├── api             # Retrofit API for remote end point.
