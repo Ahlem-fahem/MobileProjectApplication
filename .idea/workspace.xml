@@ -18,16 +18,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="readme + generate apk">
-      <change afterPath="$PROJECT_DIR$/screenshots/191113002_4350620971629142_4980105854413154676_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/191224726_826693901600872_1912756106423900421_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/191673648_297534865304259_4193885691764195633_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/191853077_1163970167408563_8891396808165699678_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/191928616_768425560489060_5949544643102170114_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/191951465_764969524186676_6992867312499184767_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/192296479_339888114152704_2773568754717250943_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="screen shoots + update readme">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
     </list>
     <list id="d39d806b-80b5-4d15-8056-f7e84658e0a7" name="first commit" comment="" />
     <list id="c01b9eef-28de-4b40-99cb-1fa6e7229316" name="second commit" comment="" />
@@ -36,7 +48,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58N50AVM8J]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[HT76L0203675]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -225,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622133564318</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="screen shoots + update readme">
+      <created>1622134120792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622134120793</updated>
+    </task>
+    <task id="LOCAL-00006" summary="screen shoots + update readme">
+      <created>1622134233256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622134233256</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +271,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="biometric + weather api + weather view + room" />
     <MESSAGE value="readme + generate apk" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme + generate apk" />
+    <MESSAGE value="screen shoots + update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="screen shoots + update readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="567" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1622047077228">
@@ -315,12 +342,12 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="690" y="414" key="VCS.ChangelistChooser/0.25.1680.942@0.25.1680.942" timestamp="1622127280067" />
-    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622133566384">
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622134234971">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1621948368035" />
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1621949586032" />
-    <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622133566384" />
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622134234971" />
     <state x="614" y="278" key="chooseDestDirectoryDialog" timestamp="1622129478239">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
@@ -439,47 +466,47 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>183</line>
+          <line>179</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>181</line>
+          <line>177</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>180</line>
+          <line>176</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>179</line>
+          <line>175</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>175</line>
+          <line>171</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>171</line>
+          <line>167</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>188</line>
+          <line>184</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>189</line>
+          <line>185</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>187</line>
+          <line>183</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
