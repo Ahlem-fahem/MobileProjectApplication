@@ -2,8 +2,8 @@
 
 it is a mobile application that allows users to view the weather status in everyone and the current city weather according to the user's gps position.
 
-- [Download apk]()
-- [screenshots]()
+- [Download apk](https://github.com/Ahlem-fahem/MobileProjectApplication/tree/main/apk)
+- [screenshots](https://github.com/Ahlem-fahem/MobileProjectApplication/tree/main/screenshots)
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.

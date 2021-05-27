@@ -18,40 +18,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="biometric + weather api + weather view + room">
-      <change afterPath="$PROJECT_DIR$/apk/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="readme + generate apk">
+      <change afterPath="$PROJECT_DIR$/screenshots/191113002_4350620971629142_4980105854413154676_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/191224726_826693901600872_1912756106423900421_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/191673648_297534865304259_4193885691764195633_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/191853077_1163970167408563_8891396808165699678_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/191928616_768425560489060_5949544643102170114_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/191951465_764969524186676_6992867312499184767_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/192296479_339888114152704_2773568754717250943_n.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/RoomLocalDb_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/RoomLocalDb_Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao_Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/navigation-args/debug/com/example/mobileprojectapplication/ui/home/HomeFragmentArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/navigation-args/debug/com/example/mobileprojectapplication/ui/home/HomeFragmentArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/api/ApiService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/RoomLocalDb.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/RoomLocalDb.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/City.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/City.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Clouds.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Clouds.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Coord.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Coord.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/NetworkErrorType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/NetworkErrorType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/State.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/State.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Sys.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Sys.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Weather.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Weather.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/WeatherResult.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/WeatherResult.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Wind.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Wind.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/repository/WeatherRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/repository/WeatherRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/EmptyFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/EmptyFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/adapter/CityListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/adapter/CityListAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/viewModel/WeatherViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/viewModel/WeatherViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/Extensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/Extensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/NetworkOnlyResourceFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/NetworkOnlyResourceFlow.kt" afterDir="false" />
     </list>
     <list id="d39d806b-80b5-4d15-8056-f7e84658e0a7" name="first commit" comment="" />
     <list id="c01b9eef-28de-4b40-99cb-1fa6e7229316" name="second commit" comment="" />
@@ -111,7 +87,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/apk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screenshots" />
     <property name="memory.settings.postsync.last.time.stamp" value="1621790964960" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -135,11 +111,11 @@
       <recent name="com.example.mobileprojectapplication" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
       <recent name="$PROJECT_DIR$/apk" />
       <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
       <recent name="$PROJECT_DIR$/app/src/main/assets" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
     </key>
   </component>
   <component name="RunManager">
@@ -242,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622131698783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="readme + generate apk">
+      <created>1622133564318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622133564318</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,7 +244,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="biometric + weather api + weather view + room" />
-    <option name="LAST_COMMIT_MESSAGE" value="biometric + weather api + weather view + room" />
+    <MESSAGE value="readme + generate apk" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme + generate apk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="567" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1622047077228">
@@ -331,12 +315,12 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="690" y="414" key="VCS.ChangelistChooser/0.25.1680.942@0.25.1680.942" timestamp="1622127280067" />
-    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622131709969">
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622133566384">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1621948368035" />
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1621949586032" />
-    <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622131709969" />
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622133566384" />
     <state x="614" y="278" key="chooseDestDirectoryDialog" timestamp="1622129478239">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
