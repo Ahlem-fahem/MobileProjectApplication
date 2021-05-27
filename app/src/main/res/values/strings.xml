@@ -1,0 +1,60 @@
+<resources>
+    <string name="android_project_api">46d9ac912e92b200d1797b913acdadaa</string>
+
+    <string name="app_name">My Weather</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_register">Register</string>
+    <string name="menu_reset_password">Reset password</string>
+    <string name="wrong_password_repeat">Le mot de passe ne correspond pas</string>
+    <string name="error_invalid_email">Email invalide</string>
+
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Mot de passe</string>
+    <string name="repeat_password_hint">Répeter le mot de passe</string>
+
+    <string name="se_connecter">Se connecter</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="reset_password">Récupération de mot de passe</string>
+
+    <string name="inscription">Inscription</string>
+    <string name="inscription_button">S\'inscrire</string>
+
+    <string name="forgot_password">Mot de passe oubliée ?</string>
+    <string name="signup_login_hint">Already have an account ? Sign In</string>
+    <string name="login_signup_hint">Vous n\'avez pas de compte ? S\'inscrire</string>
+    <string name="return_to_login">Revenir vers la page de connexion</string>
+    <string name="mail_or_password_not_entered">L\'adresse e-mail et le mot de passe doivent être saisis</string>
+    <string name="delete">Supprimer</string>
+    <string name="delete_city_title">Supprimer une ville</string>
+    <string name="delete_city_desc">Etes vous sûr de bien vouloir supprimer cette ville ?</string>
+    <string name="non">Non</string>
+    <string name="ville_actuelle">Ville actuelle</string>
+    <string name="autres_villes">Autres villes</string>
+    <string name="add_city">add city</string>
+    <string name="ajouter_une_ville">Ajouter une ville</string>
+    <string name="veuillez_saisir_le_nom_de_ville">Veuillez saisir le nom de ville</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="city_name_error">Le nom la ville doit être saisies</string>
+    <string name="annuler">Annuler</string>
+    <string name="loading">Loading</string>
+    <string name="return_to_home_page">Revenir à la page d\'accueil</string>
+    <string name="internal_server_error_text">Erreur lors du chargement des données depuis le serveur. Merci de réessayer plus tard</string>
+
+    <string name="no_network_empty_state_subtitle">Connectez-vous à Internet ou vérifiez votre connexion au réseau.</string>
+    <string name="no_network_empty_state_title">Aucun accès à Internet</string>
+    <string name="reload_page">Recharger la page</string>
+    <string name="cannot_find_user_with_this_email">Impossible de trouver l\'utilisateur avec l\'adresse e-mail suivante \" %1$s \".</string>
+
+    <string name="reset_password__email_sended"> l\'email de récupération de mot de passe est bien envoyé sur l\'adresse suivante  \" %1$s \".</string>
+
+</resources>
