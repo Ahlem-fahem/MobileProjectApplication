@@ -2,7 +2,7 @@ package com.example.mobileprojectapplication.utils
 
 import androidx.annotation.MainThread
 import androidx.annotation.WorkerThread
-import com.example.mobileprojectapplication.data.models.State
+import com.example.mobileprojectapplication.models.State
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.*
 import retrofit2.Response

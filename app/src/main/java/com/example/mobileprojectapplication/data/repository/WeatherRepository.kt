@@ -3,8 +3,8 @@ package com.example.mobileprojectapplication.data.repository
 
 
 import com.example.mobileprojectapplication.data.api.ApiService
-import com.example.mobileprojectapplication.data.models.State
-import com.example.mobileprojectapplication.data.models.WeatherResult
+import com.example.mobileprojectapplication.models.State
+import com.example.mobileprojectapplication.models.WeatherResult
 import com.example.mobileprojectapplication.utils.NetworkOnlyResourceFlow
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import kotlinx.coroutines.ExperimentalCoroutinesApi

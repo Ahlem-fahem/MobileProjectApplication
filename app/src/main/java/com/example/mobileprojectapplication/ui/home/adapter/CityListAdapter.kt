@@ -4,11 +4,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.mobileprojectapplication.data.models.City
-import com.squareup.picasso.Callback
-import com.squareup.picasso.Picasso
+import com.example.mobileprojectapplication.models.City
 import kotlinx.coroutines.ExperimentalCoroutinesApi
-import java.lang.Exception
 import com.example.mobileprojectapplication.R
 import kotlinx.android.synthetic.main.nav_drawer_list_item.view.*
 

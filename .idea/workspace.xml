@@ -18,7 +18,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="biometric + weather api + weather view + room" />
+    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="biometric + weather api + weather view + room">
+      <change afterPath="$PROJECT_DIR$/apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/RoomLocalDb_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/RoomLocalDb_Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao_Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/navigation-args/debug/com/example/mobileprojectapplication/ui/home/HomeFragmentArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/navigation-args/debug/com/example/mobileprojectapplication/ui/home/HomeFragmentArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/api/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/RoomLocalDb.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/RoomLocalDb.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/City.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/City.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Clouds.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Clouds.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Coord.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Coord.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/NetworkErrorType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/NetworkErrorType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/State.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/State.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Sys.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Sys.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Weather.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Weather.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/WeatherResult.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/WeatherResult.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/models/Wind.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/Wind.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/repository/WeatherRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/repository/WeatherRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/EmptyFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/EmptyFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/adapter/CityListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/adapter/CityListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/viewModel/WeatherViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/viewModel/WeatherViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/Extensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/Extensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/NetworkOnlyResourceFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/utils/NetworkOnlyResourceFlow.kt" afterDir="false" />
+    </list>
     <list id="d39d806b-80b5-4d15-8056-f7e84658e0a7" name="first commit" comment="" />
     <list id="c01b9eef-28de-4b40-99cb-1fa6e7229316" name="second commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +111,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apk" />
     <property name="memory.settings.postsync.last.time.stamp" value="1621790964960" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -97,12 +131,15 @@
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="com.example.mobileprojectapplication.data.repository.Rep" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.mobileprojectapplication" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apk" />
       <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
       <recent name="$PROJECT_DIR$/app/src/main/assets" />
       <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
     </key>
   </component>
   <component name="RunManager">
@@ -198,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621949583523</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="biometric + weather api + weather view + room">
+      <created>1622131698782</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622131698783</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,10 +268,15 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="567" y="216" key="#com.intellij.ide.util.MemberChooser/0.25.1680.942@0.25.1680.942" timestamp="1622047077228" />
-    <state x="6" y="414" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1622038581402">
-      <screen x="0" y="25" width="1680" height="942" />
+    <state x="6" y="415" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1622132868353">
+      <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="6" y="414" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1680.942@0.25.1680.942" timestamp="1622038581402" />
+    <state x="6" y="415" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1680.945@0.25.1680.945" timestamp="1622132868353" />
+    <state x="480" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1622132870384">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="480" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.25.1680.945@0.25.1680.945" timestamp="1622132870384" />
     <state x="572" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622121340684">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
@@ -250,26 +299,26 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state width="565" height="466" key="DebuggerActiveHint/0.25.1680.942@0.25.1680.942" timestamp="1622033563216" />
-    <state width="1636" height="208" key="GridCell.Tab.0.bottom" timestamp="1622131185654">
+    <state width="1636" height="208" key="GridCell.Tab.0.bottom" timestamp="1622131584404">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state width="903" height="170" key="GridCell.Tab.0.bottom/0.25.1680.942@0.25.1680.942" timestamp="1622129117128" />
-    <state width="1636" height="208" key="GridCell.Tab.0.bottom/0.25.1680.945@0.25.1680.945" timestamp="1622131185654" />
-    <state width="1636" height="208" key="GridCell.Tab.0.center" timestamp="1622131185653">
+    <state width="1636" height="208" key="GridCell.Tab.0.bottom/0.25.1680.945@0.25.1680.945" timestamp="1622131584404" />
+    <state width="1636" height="208" key="GridCell.Tab.0.center" timestamp="1622131584403">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state width="903" height="170" key="GridCell.Tab.0.center/0.25.1680.942@0.25.1680.942" timestamp="1622129117127" />
-    <state width="1636" height="208" key="GridCell.Tab.0.center/0.25.1680.945@0.25.1680.945" timestamp="1622131185653" />
-    <state width="1636" height="208" key="GridCell.Tab.0.left" timestamp="1622131185652">
+    <state width="1636" height="208" key="GridCell.Tab.0.center/0.25.1680.945@0.25.1680.945" timestamp="1622131584403" />
+    <state width="1636" height="208" key="GridCell.Tab.0.left" timestamp="1622131584403">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state width="903" height="170" key="GridCell.Tab.0.left/0.25.1680.942@0.25.1680.942" timestamp="1622129117127" />
-    <state width="1636" height="208" key="GridCell.Tab.0.left/0.25.1680.945@0.25.1680.945" timestamp="1622131185652" />
-    <state width="1636" height="208" key="GridCell.Tab.0.right" timestamp="1622131185653">
+    <state width="1636" height="208" key="GridCell.Tab.0.left/0.25.1680.945@0.25.1680.945" timestamp="1622131584403" />
+    <state width="1636" height="208" key="GridCell.Tab.0.right" timestamp="1622131584404">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state width="903" height="170" key="GridCell.Tab.0.right/0.25.1680.942@0.25.1680.942" timestamp="1622129117127" />
-    <state width="1636" height="208" key="GridCell.Tab.0.right/0.25.1680.945@0.25.1680.945" timestamp="1622131185653" />
+    <state width="1636" height="208" key="GridCell.Tab.0.right/0.25.1680.945@0.25.1680.945" timestamp="1622131584404" />
     <state x="0" y="132" key="SettingsEditor" timestamp="1622038256394">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
@@ -282,11 +331,12 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="690" y="414" key="VCS.ChangelistChooser/0.25.1680.942@0.25.1680.942" timestamp="1622127280067" />
-    <state x="440" y="219" key="Vcs.Push.Dialog.v2" timestamp="1621949586032">
-      <screen x="0" y="25" width="1680" height="942" />
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622131709969">
+      <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1621948368035" />
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1621949586032" />
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622131709969" />
     <state x="614" y="278" key="chooseDestDirectoryDialog" timestamp="1622129478239">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
@@ -405,47 +455,47 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>184</line>
+          <line>183</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>182</line>
+          <line>181</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>181</line>
+          <line>180</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>180</line>
+          <line>179</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>176</line>
+          <line>175</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>172</line>
+          <line>171</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>189</line>
+          <line>188</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>190</line>
+          <line>189</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt</url>
-          <line>188</line>
+          <line>187</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>

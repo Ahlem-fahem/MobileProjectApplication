@@ -6,13 +6,9 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
-import com.example.mobileprojectapplication.data.models.State
-import com.example.mobileprojectapplication.data.models.WeatherResult
-import com.example.mobileprojectapplication.data.repository.AuthAppRepository
+import com.example.mobileprojectapplication.models.State
+import com.example.mobileprojectapplication.models.WeatherResult
 import com.example.mobileprojectapplication.data.repository.WeatherRepository
-import com.google.android.gms.tasks.Task
-import com.google.firebase.auth.AuthResult
-import com.google.firebase.auth.FirebaseUser
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.cancel
 import kotlinx.coroutines.flow.collect

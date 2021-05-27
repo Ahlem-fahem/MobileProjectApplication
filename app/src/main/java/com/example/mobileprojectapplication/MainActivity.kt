@@ -25,8 +25,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.mobileprojectapplication.data.localdb.RoomLocalDb
-import com.example.mobileprojectapplication.data.models.City
-import com.example.mobileprojectapplication.ui.authentification.AuthenticationActivity
+import com.example.mobileprojectapplication.models.City
 import com.example.mobileprojectapplication.ui.home.adapter.CityListAdapter
 import com.example.mobileprojectapplication.ui.splashscreen.SplashScreenActivity
 import com.google.android.material.navigation.NavigationView

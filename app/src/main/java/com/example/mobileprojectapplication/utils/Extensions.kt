@@ -14,7 +14,7 @@ import com.google.android.gms.common.util.concurrent.HandlerExecutor
 import com.google.android.material.snackbar.Snackbar
 import java.util.concurrent.Executor
 import com.example.mobileprojectapplication.R
-import com.example.mobileprojectapplication.data.models.NetworkErrorType
+import com.example.mobileprojectapplication.models.NetworkErrorType
 import com.example.mobileprojectapplication.ui.splashscreen.SplashScreenActivity
 import kotlinx.android.synthetic.main.loading_view.view.*
 import kotlinx.android.synthetic.main.network_error.view.*

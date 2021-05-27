@@ -1,6 +1,6 @@
 package com.example.mobileprojectapplication.data.api
 
-import com.example.mobileprojectapplication.data.models.WeatherResult
+import com.example.mobileprojectapplication.models.WeatherResult
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

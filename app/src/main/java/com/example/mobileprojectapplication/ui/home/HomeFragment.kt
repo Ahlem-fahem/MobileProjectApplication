@@ -11,10 +11,10 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.example.mobileprojectapplication.R
-import com.example.mobileprojectapplication.data.models.City
-import com.example.mobileprojectapplication.data.models.NetworkErrorType
-import com.example.mobileprojectapplication.data.models.State
-import com.example.mobileprojectapplication.data.models.WeatherResult
+import com.example.mobileprojectapplication.models.City
+import com.example.mobileprojectapplication.models.NetworkErrorType
+import com.example.mobileprojectapplication.models.State
+import com.example.mobileprojectapplication.models.WeatherResult
 import com.example.mobileprojectapplication.ui.home.viewModel.WeatherViewModel
 import com.example.mobileprojectapplication.utils.hideLoadingView
 import com.example.mobileprojectapplication.utils.isOnline

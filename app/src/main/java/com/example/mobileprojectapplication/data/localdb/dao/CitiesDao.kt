@@ -1,7 +1,7 @@
 package com.example.mobileprojectapplication.data.localdb.dao
 
 import androidx.room.*
-import com.example.mobileprojectapplication.data.models.City
+import com.example.mobileprojectapplication.models.City
 
 @Dao
 interface CitiesDao {
