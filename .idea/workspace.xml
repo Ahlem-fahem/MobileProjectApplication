@@ -18,26 +18,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="screen shoots + update readme">
+    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="add general temp + clear db when user sign-out">
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/localdb/dao/CitiesDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/191113002_4350620971629142_4980105854413154676_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/191157980_1407489082942387_6492596124643030458_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/191673648_297534865304259_4193885691764195633_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/191853077_1163970167408563_8891396808165699678_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/191928616_768425560489060_5949544643102170114_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/191951465_764969524186676_6992867312499184767_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/192296479_339888114152704_2773568754717250943_n.jpg" beforeDir="false" />
     </list>
-    <list id="d39d806b-80b5-4d15-8056-f7e84658e0a7" name="first commit" comment="" />
-    <list id="c01b9eef-28de-4b40-99cb-1fa6e7229316" name="second commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,10 +97,12 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
+      <recent name="$PROJECT_DIR$/apk" />
       <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.example.mobileprojectapplication.ui.home" />
@@ -117,12 +117,10 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.mobileprojectapplication" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/apk" />
-      <recent name="$PROJECT_DIR$/screenshots" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
-      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
     </key>
   </component>
   <component name="RunManager">
@@ -197,8 +195,8 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="" />
-      <changelist id="c01b9eef-28de-4b40-99cb-1fa6e7229316" name="second commit" comment="" />
-      <changelist id="d39d806b-80b5-4d15-8056-f7e84658e0a7" name="first commit" comment="" />
+      <changelist id="" name="second commit" comment="" />
+      <changelist id="" name="first commit" comment="" />
       <created>1621790929018</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -260,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622134927977</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add general temp + clear db when user sign-out">
+      <created>1622198128229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622198128229</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +286,8 @@
     <MESSAGE value="biometric + weather api + weather view + room" />
     <MESSAGE value="readme + generate apk" />
     <MESSAGE value="screen shoots + update readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="screen shoots + update readme" />
+    <MESSAGE value="add general temp + clear db when user sign-out" />
+    <option name="LAST_COMMIT_MESSAGE" value="add general temp + clear db when user sign-out" />
   </component>
   <component name="WindowStateProjectService">
     <state x="567" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1622047077228">
@@ -355,12 +361,12 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="690" y="414" key="VCS.ChangelistChooser/0.25.1680.942@0.25.1680.942" timestamp="1622127280067" />
-    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622134929479">
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622198130640">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1621948368035" />
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1621949586032" />
-    <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622134929479" />
+    <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622198130640" />
     <state x="614" y="278" key="chooseDestDirectoryDialog" timestamp="1622129478239">
       <screen x="0" y="25" width="1680" height="945" />
     </state>

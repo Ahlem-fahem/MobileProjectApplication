@@ -30,7 +30,7 @@
     <string name="inscription_button">S\'inscrire</string>
 
     <string name="forgot_password">Mot de passe oubliée ?</string>
-    <string name="signup_login_hint">Already have an account ? Sign In</string>
+    <string name="signup_login_hint">Vous avez déjà un compte ? S\'identifier</string>
     <string name="login_signup_hint">Vous n\'avez pas de compte ? S\'inscrire</string>
     <string name="return_to_login">Revenir vers la page de connexion</string>
     <string name="mail_or_password_not_entered">L\'adresse e-mail et le mot de passe doivent être saisis</string>
@@ -42,7 +42,7 @@
     <string name="autres_villes">Autres villes</string>
     <string name="add_city">add city</string>
     <string name="ajouter_une_ville">Ajouter une ville</string>
-    <string name="veuillez_saisir_le_nom_de_ville">Veuillez saisir le nom de ville</string>
+    <string name="veuillez_saisir_le_nom_de_ville">Veuillez saisir le nom de ville</string>ƒ
     <string name="ajouter">Ajouter</string>
     <string name="city_name_error">Le nom la ville doit être saisies</string>
     <string name="annuler">Annuler</string>
