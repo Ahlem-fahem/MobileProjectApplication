@@ -74,8 +74,8 @@ class HomeFragment : Fragment(){
     private fun loadView(weatherResult: WeatherResult){
         val icon = weatherResult.weather[0].icon
         val description = weatherResult.weather[0].description
-        Log.d("icoone: ", icon)
 
+        //get icon from open weather map api
         val iconUrl = "http://openweathermap.org/img/w/$icon.png"
         Picasso.get().load(iconUrl).into(weatherIcon, object : Callback {
             override fun onSuccess() {
@@ -95,17 +95,18 @@ class HomeFragment : Fragment(){
         maxTempTv.text = "${weatherResult.main.temp_max.toInt()} °C"
         pressureTv.text = "${weatherResult.main.pressure}"
         humidityTv.text = "${weatherResult.main.humidity}%"
+        currentTempTv.text = "${weatherResult.main.temp.toInt()} °C"
+
 
     }
 
-    fun getBackground(icon: String): Drawable? {
+    //display background image according to weather condition -> https://openweathermap.org/weather-conditions
+    private fun getBackground(icon: String): Drawable? {
         return if (icon.contains("n")) {
             ContextCompat.getDrawable(requireContext(), R.drawable.night_background)
         } else {
             if (icon.contains("01") || icon.contains("02") || icon.contains(
                     "03"
-                ) || icon.contains(
-                    "04"
                 )
             ) {
                 ContextCompat.getDrawable(requireContext(), R.drawable.sun_background)

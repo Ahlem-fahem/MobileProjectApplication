@@ -80,6 +80,7 @@ class MainActivity : AppCompatActivity(),LocationListener {
             useEmailTv.text = user.email
             logoutButton.setOnClickListener {
                 firebaseAuth.signOut()
+                roomDataBaseInstance.citiesDao().deleteAll()
                 val intent = Intent(this,SplashScreenActivity::class.java)
                 startActivity(intent)
             }

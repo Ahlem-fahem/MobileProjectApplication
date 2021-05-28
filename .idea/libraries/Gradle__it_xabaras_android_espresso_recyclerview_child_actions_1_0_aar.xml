@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: it.xabaras.android.espresso:recyclerview-child-actions:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3850eca0012c285a530194b3d804de71/jetified-recyclerview-child-actions-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3850eca0012c285a530194b3d804de71/jetified-recyclerview-child-actions-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3850eca0012c285a530194b3d804de71/jetified-recyclerview-child-actions-1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.xabaras.android.espresso/recyclerview-child-actions/1.0/f001c15583825ac0f9a57eb4c33a36572dd9a9b9/recyclerview-child-actions-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
