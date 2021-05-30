@@ -50,4 +50,10 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 
+## Authors
+- [Lamya Rayess](https://github.com/lamya-rey)
+- [Ahlem Fahem](https://github.com/Ahlem-fahem)
+- [Abdellah abouhanifa](https://github.com/abouhanifa)
+
+
 
