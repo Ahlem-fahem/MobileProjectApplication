@@ -15,6 +15,8 @@ import com.example.mobileprojectapplication.models.City
 import com.example.mobileprojectapplication.models.NetworkErrorType
 import com.example.mobileprojectapplication.models.State
 import com.example.mobileprojectapplication.models.WeatherResult
+import com.example.mobileprojectapplication.ui.home.adapter.CityListAdapter
+import com.example.mobileprojectapplication.ui.home.adapter.WeekWeatherListAdapter
 import com.example.mobileprojectapplication.ui.home.viewModel.WeatherViewModel
 import com.example.mobileprojectapplication.utils.hideLoadingView
 import com.example.mobileprojectapplication.utils.isOnline
@@ -22,6 +24,7 @@ import com.example.mobileprojectapplication.utils.showErrorView
 import com.example.mobileprojectapplication.utils.showLoadingView
 import com.squareup.picasso.Callback
 import com.squareup.picasso.Picasso
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_home.*
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
@@ -29,7 +32,9 @@ import kotlinx.coroutines.ExperimentalCoroutinesApi
 class HomeFragment : Fragment(){
 
     private lateinit var weatherViewModel: WeatherViewModel
-
+    private val weekWeatherRvAdapter : WeekWeatherListAdapter by lazy {
+        WeekWeatherListAdapter(listOf())
+    }
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -71,7 +76,21 @@ class HomeFragment : Fragment(){
         })
     }
 
+    private fun loadNextFourDaysWeather(){
+        val city = arguments?.get("city") as City
+        weatherViewModel.getWeatherCityForNextDays(city.name, getString(R.string.four_day_key))
+        weatherViewModel.weekDaysWeatherLiveData.observe(viewLifecycleOwner, Observer { result ->
+            if(result is State.Success){
+                weekWeatherList.adapter = weekWeatherRvAdapter
+                weekWeatherRvAdapter.setList(result.data.list)
+                Log.d("FOUR_DAYS_RESULT",result.data.toString())
+            } else {
+                Log.d("FOUR_DAYS_RESULT_ERROR",result.toString())
+            }
+        })
+    }
     private fun loadView(weatherResult: WeatherResult){
+        loadNextFourDaysWeather()
         val icon = weatherResult.weather[0].icon
         val description = weatherResult.weather[0].description
 

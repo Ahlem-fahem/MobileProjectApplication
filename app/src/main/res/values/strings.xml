@@ -1,5 +1,6 @@
 <resources>
     <string name="android_project_api">46d9ac912e92b200d1797b913acdadaa</string>
+    <string name="four_day_key">886705b4c1182eb1c69f28eb8c520e20</string>
 
     <string name="app_name">My Weather</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>

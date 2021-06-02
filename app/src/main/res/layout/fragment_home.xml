@@ -7,6 +7,7 @@
     tools:context=".ui.home.HomeFragment"
    >
     <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/todayWeatherLayout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
@@ -62,15 +63,39 @@
             android:textColor="@color/white"
            />
     </androidx.appcompat.widget.LinearLayoutCompat>
-    <androidx.appcompat.widget.LinearLayoutCompat
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="50sp"
-        android:layout_marginStart="15dp"
-        android:layout_marginEnd="15dp"
+        android:text="Les prochains jours"
+        android:textSize="20sp"
+        android:layout_margin="15dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/weekWeatherList"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/weekWeatherList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="horizontal"
+        tools:itemCount="5"
+        tools:listitem="@layout/rv_next_day_weather_item"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent">
+        app:layout_constraintEnd_toEndOf="parent"
+       />
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/detailsTodayWeatherLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15sp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/detailsTodayWeatherLayout"
+        app:layout_constraintTop_toBottomOf="@id/todayWeatherLayout">
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -145,7 +170,8 @@
     </androidx.appcompat.widget.LinearLayoutCompat>
     <include
         android:id="@+id/appLoader"
-        layout="@layout/loading_view" />
+        layout="@layout/loading_view"
+        android:visibility="gone"/>
 
 
 

@@ -5,6 +5,7 @@ package com.example.mobileprojectapplication.data.repository
 import com.example.mobileprojectapplication.data.api.ApiService
 import com.example.mobileprojectapplication.models.State
 import com.example.mobileprojectapplication.models.WeatherResult
+import com.example.mobileprojectapplication.models.weekWeather.WeekWeatherResult
 import com.example.mobileprojectapplication.utils.NetworkOnlyResourceFlow
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -47,6 +48,16 @@ class WeatherRepository() {
 
             override suspend fun createCall(): Response<WeatherResult> {
                 return apiService.getWeatherForCity(cityName,appId)
+            }
+
+        }.asFlow()
+    }
+    @ExperimentalCoroutinesApi
+    fun getWeatherCityForNextDays(cityName: String, appId: String): Flow<State<WeekWeatherResult>> {
+        return object : NetworkOnlyResourceFlow<WeekWeatherResult>() {
+
+            override suspend fun createCall(): Response<WeekWeatherResult> {
+                return apiService.getWeatherCityForNextDays(cityName,appId)
             }
 
         }.asFlow()

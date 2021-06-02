@@ -18,30 +18,39 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="add general temp + clear db when user sign-out">
+    <list default="true" id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="update screen shoots and apk">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/models/weekWeather/WeekWeather.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/adapter/WeekWeatherListAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/rv_next_day_weather_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/195182410_862830484272656_2003793717832173672_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/195965864_3977153742402235_4271167285412631093_n.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/api/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/repository/WeatherRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/data/repository/WeatherRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/viewModel/WeatherViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobileprojectapplication/ui/home/viewModel/WeatherViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/191113002_4350620971629142_4980105854413154676_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/191157980_1407489082942387_6492596124643030458_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/191673648_297534865304259_4193885691764195633_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/191853077_1163970167408563_8891396808165699678_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/191928616_768425560489060_5949544643102170114_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/191951465_764969524186676_6992867312499184767_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/192296479_339888114152704_2773568754717250943_n.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[HT76L0203675]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58N50AVM8J]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -92,21 +101,19 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/apk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screenshots" />
     <property name="memory.settings.postsync.last.time.stamp" value="1621790964960" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/screenshots" />
-      <recent name="$PROJECT_DIR$/apk" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
-      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
-      <recent name="com.example.mobileprojectapplication.ui.home" />
       <recent name="com.example.mobileprojectapplication.ui.home.adapter" />
+      <recent name="com.example.mobileprojectapplication.ui.home" />
       <recent name="com.example.mobileprojectapplication.utils" />
       <recent name="com.example.mobileprojectapplication.data.models" />
       <recent name="com.example.mobileprojectapplication.data.repository" />
@@ -117,10 +124,12 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.mobileprojectapplication" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
+      <recent name="$PROJECT_DIR$/apk" />
       <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
     </key>
   </component>
   <component name="RunManager">
@@ -195,8 +204,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f5b04a52-d523-4d47-9c9f-362bd2d8e04a" name="Default Changelist" comment="" />
-      <changelist id="" name="second commit" comment="" />
-      <changelist id="" name="first commit" comment="" />
       <created>1621790929018</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -265,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622198128229</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update screen shoots and apk">
+      <created>1622199066695</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622199066695</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +301,8 @@
     <MESSAGE value="readme + generate apk" />
     <MESSAGE value="screen shoots + update readme" />
     <MESSAGE value="add general temp + clear db when user sign-out" />
-    <option name="LAST_COMMIT_MESSAGE" value="add general temp + clear db when user sign-out" />
+    <MESSAGE value="update screen shoots and apk" />
+    <option name="LAST_COMMIT_MESSAGE" value="update screen shoots and apk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="567" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1622047077228">
@@ -311,11 +326,11 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="352" y="291" width="618" height="409" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.25.1680.942@0.25.1680.942" timestamp="1622038513951" />
-    <state x="428" y="255" key="AndroidCreateResourceFileDialog" timestamp="1622128848714">
-      <screen x="0" y="25" width="1680" height="942" />
+    <state x="428" y="256" key="AndroidCreateResourceFileDialog" timestamp="1622630724640">
+      <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="428" y="255" key="AndroidCreateResourceFileDialog/0.25.1680.942@0.25.1680.942" timestamp="1622128848714" />
-    <state x="428" y="256" key="AndroidCreateResourceFileDialog/0.25.1680.945@0.25.1680.945" timestamp="1621795203584" />
+    <state x="428" y="256" key="AndroidCreateResourceFileDialog/0.25.1680.945@0.25.1680.945" timestamp="1622630724640" />
     <state x="662" y="278" key="AndroidCreateXmlResourceDialog" timestamp="1622123534033">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
@@ -361,11 +376,11 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="690" y="414" key="VCS.ChangelistChooser/0.25.1680.942@0.25.1680.942" timestamp="1622127280067" />
-    <state x="440" y="220" key="Vcs.Push.Dialog.v2" timestamp="1622198130640">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state x="440" y="219" key="Vcs.Push.Dialog.v2" timestamp="1622199068425">
+      <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1621948368035" />
-    <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1621949586032" />
+    <state x="440" y="219" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1622199068425" />
     <state x="440" y="220" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1622198130640" />
     <state x="614" y="278" key="chooseDestDirectoryDialog" timestamp="1622129478239">
       <screen x="0" y="25" width="1680" height="945" />
@@ -376,10 +391,10 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="100" y="125" width="1468" height="740" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1680.942@0.25.1680.942" timestamp="1622118116714" />
-    <state x="100" y="125" width="1116" height="742" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622049684127">
+    <state x="99" y="125" width="1116" height="742" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622399258819">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
-    <state x="100" y="125" width="1116" height="742" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.942@0.25.1680.942" timestamp="1622049684127" />
+    <state x="99" y="125" width="1116" height="742" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.942@0.25.1680.942" timestamp="1622399258819" />
     <state width="600" height="427" key="javadoc.popup" timestamp="1622122813516">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
@@ -389,11 +404,12 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="452" y="226" key="run.anything.popup/0.25.1680.942@0.25.1680.942" timestamp="1622045556331" />
-    <state x="505" y="231" width="670" height="678" key="search.everywhere.popup" timestamp="1622127003809">
-      <screen x="0" y="25" width="1680" height="942" />
+    <state x="505" y="232" width="670" height="681" key="search.everywhere.popup" timestamp="1622626847463">
+      <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.25.1680.940@0.25.1680.940" timestamp="1621945821611" />
     <state x="505" y="231" width="670" height="678" key="search.everywhere.popup/0.25.1680.942@0.25.1680.942" timestamp="1622127003809" />
+    <state x="505" y="232" width="670" height="681" key="search.everywhere.popup/0.25.1680.945@0.25.1680.945" timestamp="1622626847463" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
